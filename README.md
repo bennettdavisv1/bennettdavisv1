@@ -4,7 +4,7 @@ I am a Computer Science and Applied Mathematics student at [**Vanderbilt**](http
 
 # Current Projects
 
-I am currently working on two projects in blockchain witha past project in AI.
+I am currently working on two projects in blockchain with a past project in AI.
 
 ## [**Movement Labs** ](https://movementlabs.xyz): ***A Move-based Layer 2 Blockchain***
 
