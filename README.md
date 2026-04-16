@@ -22,7 +22,7 @@ Novel hook architecture for capital-efficient market making. Building out AEGIS 
 
 ## Track Record
 
-### [**Canopy**](https://canopy.xyz) *(acquired by Amplifi Liquidity)*
+### [**Canopy**](https://canopy.xyz)
 Co-founded a DeFi liquidity protocol on Movement Network.
 - Raised **$1.2M** pre-seed
 - Scaled to **$150M AUM** and **3,800+ users** in 8 months
