@@ -1,46 +1,42 @@
-# **Hey, I’m Bennett 👋**
+# Hey, I'm Bennett 👋
 
-I am a Computer Science and Applied Mathematics student at [**Vanderbilt**](https://www.vanderbilt.edu/) building with emergent technologies.
+Head of Growth at [**Amplifi Liquidity**](https://amplifi.xyz) — DeFi market-making, liquidity management, and TGE support for crypto protocols. Previously co-founded [**Canopy**](https://app.canopyhub.xyz). Early team at [**Movement Labs**](https://movementlabs.xyz).
 
-# Current Projects
+CS + Applied Math at [**Vanderbilt**](https://www.vanderbilt.edu/) → graduating May 2026.
 
-I am currently working on two projects in blockchain with a past project in AI.
+---
 
-## [**Movement Labs** ](https://movementlabs.xyz): ***A Move-based Layer 2 Blockchain***
+## What I'm Building
 
-![Movement Labs](movement-logo.png)
+### [**Amplifi Liquidity**](https://amplifi.xyz) — *DeFi market-making and liquidity infrastructure*
+Leading growth and BD across four service lines:
+- **Treasury Activation** — putting protocol treasuries to productive work
+- **DEX Market Making** — concentrated liquidity on v3/v4 venues
+- **Vault Strategy** — yield generation across lending, LP, and structured products
+- **TGE Support** — launch-day liquidity and market structure for new tokens
 
-**Key Components of the Move Rollup Framework**
-- Executor: Processes transactions and generates new L2 blocks.
-- Bridge Contracts: Facilitates asset deposits and withdrawals between L1 and the rollup.
-- Sequencer: Orders transactions.
-- Data Availability Service: Ensures transaction data accessibility to the settlement mechanism.
-- Settlement Mechanism: Verifies transaction execution correctness through various methods (e.g., zk-proofs, optimistic rollups, staked rollups).
+### [**Aegis Markets**](https://aegis.markets) — *Uniswap V4 hook protocol*
+Novel hook architecture for capital-efficient market making. Building out AEGIS Engine, the introduction of margin to Uniswap.
 
-**Achievements**
+---
 
-- Member of the core engineering team from the company's inception through its \$3.4M pre-seed raise and \$38M Series A funding, contributing to technical development and growth.
+## Track Record
 
-- Succesful launch of [incentivized public testnet](https://testnet.movementlabs.xyz/)
+### [**Canopy**](https://canopy.xyz) *(acquired by Amplifi Liquidity)*
+Co-founded a DeFi liquidity protocol on Movement Network.
+- Raised **$1.2M** pre-seed
+- Scaled to **$150M AUM** and **3,800+ users** in 8 months
 
+### [**Movement Labs**](https://movementlabs.xyz) — *Move-based L2*
+Founding team member from inception through **$3.4M pre-seed** and **$38M Series A**.
 
-## [**Satay Finance** ](https://app.satay.finance/): ***All-in-one DeFi aggregator for Movement***
+### Earlier
+- NASA × Vanderbilt blockchain research — proof-of-stake drone coordination on Hedera Hashgraph
 
-<img src="satay_logo.png" alt="Satay" width="225" height="225">
+---
 
-**Three Pillars of Satay Finance**
-1. [***Blocks***](https://app.satay.finance/blocks) - composable DeFi primitive operations through trusted third-party protocols
-2. [***Strategies***](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation
-3. [***Vaults***](https://app.satay.finance/vaults) - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield
+## What I Work On
 
-## [Special Education ChatBot ](https://github.com/bennettdavisv1/special-ed-chat-bot): ***AI-powered virtual special education teacher***
+DeFi infrastructure · AMM mechanics (v3 concentrated liquidity, v4 hooks) · liquidity management · market making · tokenomics and TGE design
 
-<img src="ChatbotLogo.png" alt="ChatBotLogo" width="225" height="225">
-
-## Technologies Used
-
-- Python Programming Language
-- OpenAI ChatGPT4
-- HTML/CSS/JS
-- Flask
-
+---
